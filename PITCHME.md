@@ -55,21 +55,22 @@
 
 @title[Step 2. Git-Commit]
 
-### <span class="gold">STEP 2. GIT-COMMIT</span>
+### <span class="gold">Pergun</span>
 <br>
 
 ```shell
-$ git add PITCHME.md
-$ git commit -m "New slideshow content."
-$ git push
+- SOP Pengembangan Aplikasi
+- SOP Pengembangan Website
+- SOP Kemanan Sistem
+- SOP Data center
 
 Done!
 ```
 
-@[1](Add your PITCHME.md slideshow content file.)
-@[2](Commit PITCHME.md to your local repo.)
-@[3](Push PITCHME.md to your public repo and you're done!)
-@[5](Supports GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.)
+@[1](Mengatur cara pengajuan pengembangan aplikasi.)
+@[2](Mengatur cara mengelola halaman website .)
+@[3](Mengatur cara penerapan kemanan sistem jaringan)
+@[5](Mengatur cara menyelenggarakan data center.)
 
 ---
 
