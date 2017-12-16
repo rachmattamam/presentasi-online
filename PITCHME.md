@@ -1,12 +1,12 @@
 
 @title[Introduction]
 
-# Git<span class="gold">Pitch</span>
+# Banten <span class="gold">menuju</span>
 
 #### Jaringan Informasi Geospasial Nasional.*
 <br>
 <br>
-<span class="byline">[ Dinas Komunikasi Informati Statistika dan Persantian]</span>
+<span class="byline">[ Dinas Komunikasi Informati Statistika dan Persandian]</span>
 
 ---
 
