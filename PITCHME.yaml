@@ -9,6 +9,6 @@ theme : night
 theme-override : assets/css/PITCHME.css
 logo : assets/image/banten-dev.png
 highlight : atom-one-light
-transition : convex
+transition : concave
 published : true
 footnote : "Banten Development Presentasi Online"
