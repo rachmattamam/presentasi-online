@@ -12,11 +12,11 @@
 
 @title[PITCHME.md]
 
-#### GitPitch turns <span class="gold">PITCHME.md</span> into
-#### interactive,
-#### online and offline slideshows.
+#### Dina Komunikasi <span class="gold">Infornatika</span> statistika
+#### dan Persandian
+#### Khususnya Seksi Pengembangan Aplikasi Informatika.
 <br>
-<span class="aside">Just like this one...</span>
+<span class="aside">Telah melaksanakan ...</span>
 
 ---
 
