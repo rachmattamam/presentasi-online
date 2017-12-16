@@ -6,8 +6,8 @@
 #
 # Transition Pilih Aja convex, concave, default, fade, none, slide and zoom
 theme : night
-theme-override : assets/css/PITCHME.css
-logo : assets/image/banten-dev.png
+theme-override : /assets/css/PITCHME.css
+logo : /assets/image/banten-dev.png
 highlight : atom-one-light
 transition : zoom
 published : true
