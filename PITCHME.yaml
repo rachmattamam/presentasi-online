@@ -4,10 +4,11 @@
 # For details, visit Wiki:
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 #
+# Transition Pilih Aja convex, concave, default, fade, none, slide and zoom
 theme : night
 theme-override : assets/css/PITCHME.css
 logo : assets/image/banten-dev.png
 highlight : atom-one-light
-transition : none
+transition : slide
 published : true
 footnote : "Banten Development Presentasi Online"
