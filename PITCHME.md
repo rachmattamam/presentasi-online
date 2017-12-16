@@ -20,11 +20,11 @@
 
 ---
 
-#### No more <span class="gray">Keynote</span>.
-#### No more <span class="gray">Powerpoint</span>.
+#### Pengembangan <span class="gray">Dashboard Pimpinan</span>.
+#### Pengembangan <span class="gray">Portal Provinsi Banten</span>.
 <br>
-#### Just <span class="gold">Markdown</span>.
-#### Then <span class="gold">Git-Commit</span>.
+#### Pengembangan <span class="gold">Yankes</span>.
+#### Pengembangan <span class="gold">Simbada</span>.
 
 ---?code=assets/md/hello.md&title=Step 1. PITCHME.md
 
