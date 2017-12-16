@@ -22,8 +22,9 @@
 
 #### Pengembangan <span class="gray">Dashboard Pimpinan</span>.
 #### Pengembangan <span class="gray">Portal Provinsi Banten</span>.
-#### Pengembangan <span class="gray">Bantenprov API</span>.
-### Pengembangan <span class="gray">BantOS</span>.
+#### Pengembangan <span class="gold">Bantenprov API</span>.
+### Pengembangan <span class="gold">BantOS</span>.
+### Pengembangan <span class="gray">Banten Satu Data</span>.
 #### Pengembangan <span class="gold">Yankes</span>.
 #### Pengembangan <span class="gold">Simbada</span>.
 #### Pengembangan <span class="gold">Epormas</span>.
