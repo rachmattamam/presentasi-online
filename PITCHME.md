@@ -5,8 +5,8 @@
 
 #### Seksi Pengembangan Aplikasi Informatika.*
 <br>
-<span class="byline front">[Evaluasi Kegiatan TA 2017]</span>
-<span class="byline front">[Rencana Kerja TA 2018]</span>
+<div class="byline front">[Evaluasi Kegiatan TA 2017]</div>
+<div class="byline front">[Rencana Kerja TA 2018]</div>
 
 ---
 
