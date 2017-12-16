@@ -12,3 +12,4 @@ highlight : atom-one-light
 transition : zoom
 published : true
 footnote : "Banten Development Presentasi Online"
+remote-control: true
