@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 @title[Introduction]
 
 # Git<span class="gold">Pitch</span>
@@ -118,8 +117,7 @@ Done!
 <br>
 [Click here to learn more @fa[external-link fa-pad-left]](https://github.com/gitpitch/gitpitch/wiki)
 =======
-=======
->>>>>>> de21c1317d700b9653a954857ca7982bc5f8d170
+
 #### Banten Development Presentation Online
 
 ##### Menuju Banten Satu Data
