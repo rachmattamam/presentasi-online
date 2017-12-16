@@ -70,7 +70,7 @@ Done!
 @[1](Mengatur cara pengajuan pengembangan aplikasi.)
 @[2](Mengatur cara mengelola halaman website .)
 @[3](Mengatur cara penerapan kemanan sistem jaringan)
-@[5](Mengatur cara menyelenggarakan data center.)
+@[4](Mengatur cara menyelenggarakan data center.)
 
 ---
 
@@ -83,7 +83,7 @@ Done!
 <br>
 #### Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
 
----
+---y
 
 @title[Slide Rich]
 
