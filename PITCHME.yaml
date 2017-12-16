@@ -7,6 +7,7 @@
 # Transition Pilih Aja convex, concave, default, fade, none, slide and zoom
 theme : night
 theme-override : assets/css/PITCHME.css
+background : assets/image/gitpitch-audience.jpg
 logo : assets/image/banten-dev.png
 highlight : atom-one-light
 transition : convex
