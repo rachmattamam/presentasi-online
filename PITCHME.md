@@ -6,7 +6,7 @@
 #### Dalam Jaringan Informasi Geospasial Nasional.*
 <br>
 <br>
-<span class="byline front">[Dinas Komunikasi Informati Statistika dan Persandian]</span>
+<span class="byline front">[Dinas KISP]</span>
 
 ---
 
