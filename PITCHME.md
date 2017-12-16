@@ -12,7 +12,7 @@
 
 @title[PITCHME.md]
 
-#### Dinas Komunikasi <span class="gold">Infornatika</span> statistika
+#### Dinas Komunikasi <span class="gold">Informatika</span> statistika
 #### dan Persandian
 #### Seksi Pengembangan Aplikasi Informatika.
 <br>
