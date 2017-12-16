@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 @title[Introduction]
 
 # Git<span class="gold">Pitch</span>
@@ -117,6 +118,8 @@ Done!
 <br>
 [Click here to learn more @fa[external-link fa-pad-left]](https://github.com/gitpitch/gitpitch/wiki)
 =======
+=======
+>>>>>>> de21c1317d700b9653a954857ca7982bc5f8d170
 #### Banten Development Presentation Online
 
 ##### Menuju Banten Satu Data
@@ -224,5 +227,8 @@ http.createServer(function (request, response) {
 
 ### <span class="white">Get your presentation started!</span>
 ### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/blue)
+<<<<<<< HEAD
 >>>>>>> 800f507339a36ac65914193d8178d2f1f0ffd40d
+=======
+>>>>>>> de21c1317d700b9653a954857ca7982bc5f8d170
 
