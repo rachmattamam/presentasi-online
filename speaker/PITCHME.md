@@ -1,125 +1,13 @@
-<<<<<<< HEAD
-@title[Introduction]
+## Blue Speaker
 
-# Git<span class="gold">Pitch</span>
+### A GitPitch Presentation Template
 
-#### Markdown Presentations For Everyone on Git.*
-<br>
-<br>
-<span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
+Note:
+Welcome to this [GitPitch](https://gitpitch.com)
+presentation template!
 
----
-
-@title[PITCHME.md]
-
-#### GitPitch turns <span class="gold">PITCHME.md</span> into
-#### interactive,
-#### online and offline slideshows.
-<br>
-<span class="aside">Just like this one...</span>
-
----
-
-#### No more <span class="gray">Keynote</span>.
-#### No more <span class="gray">Powerpoint</span>.
-<br>
-#### Just <span class="gold">Markdown</span>.
-#### Then <span class="gold">Git-Commit</span>.
-
----?code=assets/md/hello.md&title=Step 1. PITCHME.md
-
-<br>
-#### Create slideshow content using GitHub Flavored Markdown in your favorite editor.
-
-<span class="aside">It's as easy as README.md with simple slide-delimeters (---)</span>
-
----
-
-@title[Step 2. Git-Commit]
-
-### <span class="gold">STEP 2. GIT-COMMIT</span>
-<br>
-
-```shell
-$ git add PITCHME.md
-$ git commit -m "New slideshow content."
-$ git push
-
-Done!
-```
-
-@[1](Add your PITCHME.md slideshow content file.)
-@[2](Commit PITCHME.md to your local repo.)
-@[3](Push PITCHME.md to your public repo and you're done!)
-@[5](Supports GitHub, GitLab, Bitbucket, GitBucket, Gitea, and Gogs.)
-
----
-
-@title[Step 3. Done!]
-
-### <span class="gold">STEP 3. GET THE WORD OUT!</span>
-<br>
-![GitPitch Slideshow URLs](assets/images/gp-slideshow-urls.png)
-<br>
-<br>
-#### Instantly use your GitPitch slideshow URL to promote, pitch or present absolutely anything.
-
----
-
-@title[Slide Rich]
-
-### <span class="gold">Slide Rich</span>
-
-#### Code Presenting for Blocks, Files, and GISTs
-#### Image, Video, Chart, and Math Slides
-#### Multiple Themes with Easy Customization
-<br>
-#### <span class="gold">Plus collaboration is built-in...</span>
-#### Your Slideshow is Part of Your Project
-#### Under Git Version Control within Your Git Repo
-
----
-
-@title[Feature Rich]
-
-### <span class="gold">Feature Rich</span>
-
-#### Present Online or Offline
-#### With Speaker Notes Support
-#### Print Presentation as PDF
-#### Auto-Generated Table-of-Contents
-#### Share Presentation on Twitter or LinkedIn
-
----
-
-### <span class="gold">GitPitch Pro - Coming Soon!</span>
-
-<br>
-<div class="left">
-    <i class="fa fa-user-secret fa-5x" aria-hidden="true"> </i><br>
-    <a href="https://gitpitch.com/pro-features" class="pro-link">
-    More details here.</a>
-</div>
-<div class="right">
-    <ul>
-        <li>Private Repos</li>
-        <li>Private URLs</li>
-        <li>Password-Protection</li>
-        <li>Image Opacity</li>
-        <li>SVG Image Support</li>
-    </ul>
-</div>
-
----
-
-### Go for it.
-### Just add <span class="gold">PITCHME.md</span> ;)
-<br>
-[Click here to learn more @fa[external-link fa-pad-left]](https://github.com/gitpitch/gitpitch/wiki)
-=======
-#### Banten Development Presentation Online
-
-##### Menuju Banten Satu Data
+You are currently enjoying the speaker notes window,
+a feature available to all online and offline slideshows.
 
 ---
 
@@ -130,6 +18,10 @@ Done!
 @fa[arrows gp-tip](Press F to go Fullscreen)
 
 @fa[microphone gp-tip](Press S for Speaker Notes)
+
+Note:
+Get started by telling your audience something cool
+about your product, service, framework, course, etc.
 
 ---
 
@@ -142,11 +34,21 @@ Done!
 - Slide-specific Background Images |
 - Custom Logo, TOC, and Footnotes |
 
+Note:
+Keep yourself on track using lists within your speaker notes:
+
+- Key insight.
+- Supporting use case.
+- Time to delve deeper.
+
 ---?code=src/go/server.go&lang=golang&title=Golang File
 
 @[1,3-6](Present code found within any repo source file.)
 @[8-18](Without ever leaving your slideshow.)
 @[19-28](Using GitPitch code-presenting with (optional) annotations.)
+
+Note:
+Best to keep it simple. Try highlighting just one key message per slide.
 
 ---
 
@@ -181,11 +83,19 @@ http.createServer(function (request, response) {
 @[9-17](Displayed using code-syntax highlighting just like your IDE.)
 @[19-20](Again, all of this without ever leaving your slideshow.)
 
+Note:
+Perhaps it's time for an insightful anecdote to keep your
+audience engaged?
+
 ---?gist=onetapbeyond/494e0fecaf0d6a2aa2acadfb8eb9d6e8&lang=scala&title=Scala GIST
 
 @[23](You can even present code found within any GitHub GIST.)
 @[41-53](GIST source code is beautifully rendered on any slide.)
 @[57-62](And code-presenting works seamlessly for GIST too, both online and offline.)
+
+Note:
+
+Reinforce key points to drive home your message.
 
 ---
 
@@ -198,6 +108,14 @@ http.createServer(function (request, response) {
 - [Slide-specific Background Images](https://github.com/gitpitch/gitpitch/wiki/Image-Slides#background)
 - [Custom Logo](https://github.com/gitpitch/gitpitch/wiki/Logo-Setting), [TOC](https://github.com/gitpitch/gitpitch/wiki/Table-of-Contents), and [Footnotes](https://github.com/gitpitch/gitpitch/wiki/Footnote-Setting)
 
+Note:
+
+Let your audience know where they can find additional
+help.
+
+And where they can find your presentaton slides,
+online @ [GitPitch.com](https://gitpitch.com) :)
+
 ---
 
 ### Template Versions
@@ -205,6 +123,11 @@ http.createServer(function (request, response) {
 - #### [Base Template  @fa[external-link gp-download]](https://gitpitch.com/gitpitch/templates/blue)
 - #### [Code Maximized @fa[external-link gp-download]](https://gitpitch.com/gitpitch/templates/blue?p=codemax)
 - #### [Speaker Notes @fa[external-link gp-download]](https://gitpitch.com/gitpitch/templates/blue?p=speaker)
+
+Note:
+
+You can use the links on this slide to explore alternate
+versions of this template. 
 
 ---
 
@@ -218,11 +141,21 @@ http.createServer(function (request, response) {
 
 @fa[medium gp-contact](@gitpitch)
 
+Note:
+
+Encourage questions, it's a great opportunity to
+learn from your audience.
+
 ---?image=assets/image/gitpitch-audience.jpg
 
 @title[Download this Template!]
 
-### <span class="white">Get your presentation started!</span>
+### Get your presentation started!
 ### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/blue)
->>>>>>> 800f507339a36ac65914193d8178d2f1f0ffd40d
+
+Note:
+
+Now it's your turn. The fastest way from idea to presentation
+is to download a GitPitch presentation template. Visit the
+Template Gallery [here](https://gitpitch.com/templates.html).
 
