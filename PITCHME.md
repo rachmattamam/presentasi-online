@@ -3,10 +3,10 @@
 
 # Git<span class="gold">Pitch</span>
 
-#### Markdown Presentations For Everyone on Git.*
+#### Jaringan Informasi Geospasial Nasional.*
 <br>
 <br>
-<span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
+<span class="byline">[ Dinas Komunikasi Informati Statistika dan Persantian]</span>
 
 ---
 
