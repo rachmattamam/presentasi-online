@@ -1,12 +1,12 @@
 
 @title[Introduction]
 
-# Banten <span class="gold">menuju</span>
+# Banten<span class="gold">Prov</span>
 
-#### Jaringan Informasi Geospasial Nasional.*
+#### Dalam Jaringan Informasi Geospasial Nasional.*
 <br>
 <br>
-<span class="byline">[ Dinas Komunikasi Informati Statistika dan Persandian]</span>
+<span class="byline">[Dinas Komunikasi Informati Statistika dan Persandian]</span>
 
 ---
 
