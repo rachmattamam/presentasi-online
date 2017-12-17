@@ -1,7 +1,7 @@
 
 @title[Introduction]
 
-# Dinas<span class="gold">KISP</span>
+# Dinas<span class="gold"> Komunikasi Informatika Statistik dan Persandian</span>
 
 #### Seksi Pengembangan Aplikasi Informatika.*
 <br>
@@ -12,7 +12,7 @@
 
 @title[PITCHME.md]
 
-#### Dinas Komunikasi <span class="gold">Informyatika</span> statistika
+#### Dinas Komunikasi <span class="gold">Informatika</span> Statistik
 #### dan Persandian
 #### Seksi Pengembangan Aplikasi Informatika.
 <br>
