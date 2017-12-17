@@ -12,9 +12,9 @@
 
 @title[PITCHME.md]
 
-#### Dina Komunikasi <span class="gold">Infornatika</span> statistika
+#### Dinas Komunikasi <span class="gold">Informatika</span> statistika
 #### dan Persandian
-#### Khususnya Seksi Pengembangan Aplikasi Informatika.
+#### Seksi Pengembangan Aplikasi Informatika.
 <br>
 <span class="aside">Telah melaksanakan ...</span>
 
@@ -55,7 +55,7 @@
 
 @title[Step 2. Git-Commit]
 
-### <span class="gold">Pergun</span>
+### <span class="gold">Peraturan Gubernur</span>
 <br>
 
 ```shell
