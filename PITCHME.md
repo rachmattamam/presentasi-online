@@ -29,16 +29,16 @@
 ---
 
 
-### Pengembangan <span class="gray">Banten Satu Data</span>.
-#### Pengembangan <span class="gold">Yankes</span>.
-### Pengembangan <span class="gold">Simbada</span>.
-#### Pengembangan <span class="gold">Epormas</span>.
+### Pengembangan <span class="gray">Banten Satu Data</span>[.](http://satudata-01.dev.bantenprov.go.id/)
+#### Pengembangan <span class="gold">Yankes</span>[.](http://yankes-01.dev.bantenprov.go.id/)
+### Pengembangan <span class="gold">Simbada</span>[.](http://simbada-01.dev.bantenprov.go.id/)
+#### Pengembangan <span class="gold">Epormas</span>[.](http://epormas-01.dev.bantenprov.go.id/)
 
 ---
 
 
-### Pengembangan <span class="gold">Banten SSO</span>.
-#### Pengembangan <span class="gold">Task Management</span>.
+### Pengembangan <span class="gold">Banten SSO</span>[.](https://sso.dev.bantenprov.go.id:9443/cas)
+#### Pengembangan <span class="gold">Task Management</span>[.](http://task-01.dev.bantenprov.go.id/)
 
 
 ---
