@@ -64,7 +64,7 @@
 - SOP Kemanan Sistem
 - SOP Data center
 
-Done!
+Menjadi >>>>>>> Pergub Sistem Elektronik Pemerintah Provinsi Banten
 ```
 
 @[1](Mengatur cara pengajuan pengembangan aplikasi.)
