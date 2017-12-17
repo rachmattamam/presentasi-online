@@ -244,8 +244,3 @@ http.createServer(function (request, response) {
 
 ### <span class="white">Get your presentation started!</span>
 ### [Download this template @fa[external-link gp-download]](https://gitpitch.com/template/download/blue)
-<<<<<<< HEAD
->>>>>>> 800f507339a36ac65914193d8178d2f1f0ffd40d
-=======
->>>>>>> de21c1317d700b9653a954857ca7982bc5f8d170
-
