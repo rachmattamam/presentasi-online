@@ -12,7 +12,7 @@
 
 @title[PITCHME.md]
 
-#### Dinas Komunikasi <span class="gold">Informatika</span> statistika
+#### Dinas Komunikasi <span class="gold">Informyatika</span> statistika
 #### dan Persandian
 #### Seksi Pengembangan Aplikasi Informatika.
 <br>
@@ -20,10 +20,10 @@
 
 ---
 
-### Pengembangan <span class="gray">Dashboard Pimpinan</span>.
-#### Pengembangan <span class="gray">Portal Provinsi Banten</span>.
-### Pengembangan <span class="gold">BantOS</span>.
-#### Pengembangan <span class="gold">Bantenprov API</span>.
+### Pengembangan <span class="gray">Dashboard Pimpinan</span>[.](http://dashboard-01.dev.bantenprov.go.id/)
+#### Pengembangan <span class="gray">Portal Provinsi Banten</span>[.](http://portal-01.dev.bantenprov.go.id/)
+### Pengembangan <span class="gold">BantOS</span>[.](http://linux.dev.bantenprov.go.id/)
+#### Pengembangan <span class="gold">Bantenprov API</span>[.](http://api-01.dev.bantenprov.go.id/)
 
 
 ---
@@ -37,7 +37,7 @@
 ---
 
 
-### Pengembangan <span class="gray">Banten SSO</span>.
+### Pengembangan <span class="gold">Banten SSO</span>.
 #### Pengembangan <span class="gold">Task Management</span>.
 
 
